@@ -508,6 +508,3 @@ javascript
 Copy
 Edit
 db.books.createIndex({ author: 1 });
-Benefits of Indexing:
-
-
